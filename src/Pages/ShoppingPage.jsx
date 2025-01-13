@@ -13,7 +13,7 @@ export default function ShoppingPage() {
       name: 'Modern Wooden Armchair',
       price: 299.99,
       rating: 4.5,
-      image: '/placeholder.svg?height=300&width=400&text=Wooden+Armchair',
+      image: '/assets/ModernwoodenChair.png', // Fixed image path
       category: 'chairs',
       description: 'Comfortable wooden armchair with premium finish',
       availability: 'In Stock',
@@ -24,7 +24,7 @@ export default function ShoppingPage() {
       name: 'Executive Office Chair',
       price: 499.99,
       rating: 4.8,
-      image: '/placeholder.svg?height=300&width=400&text=Office+Chair',
+     image: '/assets/ModernwoodenChair.png', // Fixed image path
       category: 'chairs',
       description: 'Ergonomic office chair with lumbar support',
       availability: 'In Stock',
@@ -35,7 +35,7 @@ export default function ShoppingPage() {
       name: 'Glass Conference Table',
       price: 899.99,
       rating: 4.6,
-      image: '/placeholder.svg?height=300&width=400&text=Conference+Table',
+    image: '/assets/ModernwoodenChair.png', // Fixed image path
       category: 'tables',
       description: 'Modern glass conference table for 8 people',
       availability: '2 weeks delivery',
