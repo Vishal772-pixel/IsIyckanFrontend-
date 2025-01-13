@@ -37,7 +37,7 @@ export default function ProductDetails() {
       id: 4,
       name: 'Mini Rolling Chair',
       price: '89.00 SEK',
-      image: '/placeholder.svg?height=200&width=200&text=Rolling+Chair'
+      image: '/assets/GlassCoffeeTable.png?height=200&width=200&text=Rolling+Chair'
     }
   ]
 
