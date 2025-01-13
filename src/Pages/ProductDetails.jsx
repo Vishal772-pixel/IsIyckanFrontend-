@@ -25,7 +25,7 @@ export default function ProductDetails() {
       id: 2,
       name: 'Coffee Table',
       price: '299.00 SEK',
-      image: '/placeholder.svg?height=200&width=200&text=Coffee+Table'
+      image: '/assets/GlassCoffeeTable.png'?height=200&width=200&text=Coffee+Table'
     },
     {
       id: 3,
