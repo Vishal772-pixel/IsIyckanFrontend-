@@ -19,25 +19,25 @@ export default function ProductDetails() {
       id: 1,
       name: 'Modern Armchair',
       price: '499.00 SEK',
-      image: '/placeholder.svg?height=200&width=200&text=Armchair'
+     image: '/assets/ModernwoodenChair.png', // Fixed image path
     },
     {
       id: 2,
       name: 'Coffee Table',
       price: '299.00 SEK',
-      image: '/assets/GlassCoffeeTable.png'?height=200&width=200&text=Coffee+Table'
+      image: '/assets/ModernwoodenChair.png', // Fixed image path
     },
     {
       id: 3,
       name: 'Floor Lamp',
       price: '199.00 SEK',
-      image: '/placeholder.svg?height=200&width=200&text=Floor+Lamp'
+     image: '/assets/ModernwoodenChair.png', // Fixed image path
     },
     {
       id: 4,
       name: 'Mini Rolling Chair',
       price: '89.00 SEK',
-      image: '/assets/GlassCoffeeTable.png?height=200&width=200&text=Rolling+Chair'
+     image: '/assets/ModernwoodenChair.png', // Fixed image path
     }
   ]
 
